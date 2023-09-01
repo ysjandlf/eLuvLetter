@@ -5,16 +5,17 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fd84ca0e-d826-472b-a19b-e598c36eb07e/deploy-status)](https://app.netlify.com/sites/eluvletter/deploys)
 
 ## Important links
-|    Name    | URL                                          |
-| :--------: | :------------------------------------------- |
-|    Git     | <https://git-scm.com/downloads>              |
-|   GitHub   | <https://github.com>                         |
-| eLuvLetter | <https://github.com/george-chou/eLuvLetter>  |
-|  Netlify   | <https://app.netlify.com>                    |
-|  2D Demo   | <https://eluvletter.pages.dev>               |
-|  3D Demo   | <https://eluvletter.pages.dev/index-3d.html> |
+|        Name         | URL                                                   |
+| :-----------------: | :---------------------------------------------------- |
+|         Git         | <https://git-scm.com/downloads>                       |
+|       GitHub        | <https://github.com>                                  |
+|     eLuvLetter      | <https://github.com/george-chou/eLuvLetter>           |
+|       Netlify       | <https://app.netlify.com>                             |
+|       2D Demo       | <https://eluvletter.pages.dev>                        |
+|       3D Demo       | <https://eluvletter.pages.dev/index-3d.html>          |
+| Tutorial in Chinese | <https://www.cnblogs.com/george-chou/p/16617269.html> |
 
-Note: the heartbeat animation indicates that the BGM is loading, please be patient and wait.
+Note: the heartbeat animation indicates that the BGM is loading, please be patient and wait util the envelope appears.
 
 ## Customize
 
