@@ -2,6 +2,7 @@
 
 [![license](https://img.shields.io/github/license/george-chou/eLuvLetter.svg)](https://github.com/george-chou/eLuvLetter/blob/master/LICENSE)
 [![Deploy static content to Pages](https://github.com/george-chou/eLuvLetter/actions/workflows/static.yml/badge.svg?branch=main)](https://github.com/george-chou/eLuvLetter/actions/workflows/static.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fd84ca0e-d826-472b-a19b-e598c36eb07e/deploy-status)](https://app.netlify.com/sites/eluvletter/deploys)
 
 ## Important links
 |    Name    | URL                                          |
