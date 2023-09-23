@@ -1,7 +1,7 @@
 # Use eLuvLetter
 
-[![license](https://img.shields.io/github/license/george-chou/eLuvLetter.svg)](https://github.com/george-chou/eLuvLetter/blob/master/LICENSE)
-[![Deploy static content to Pages](https://github.com/george-chou/eLuvLetter/actions/workflows/static.yml/badge.svg?branch=main)](https://github.com/george-chou/eLuvLetter/actions/workflows/static.yml)
+[![license](https://img.shields.io/github/license/MuGeminorum/eLuvLetter.svg)](https://github.com/MuGeminorum/eLuvLetter/blob/master/LICENSE)
+[![Deploy static content to Pages](https://github.com/MuGeminorum/eLuvLetter/actions/workflows/static.yml/badge.svg?branch=main)](https://github.com/MuGeminorum/eLuvLetter/actions/workflows/static.yml)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/712880d1-1b1f-4500-a50f-16433c31d130/deploy-status)](https://app.netlify.com/sites/eluvletter/deploys)
 
 ## Important links
@@ -9,11 +9,11 @@
 | :-----------------: | :---------------------------------------------------- |
 |         Git         | <https://git-scm.com/downloads>                       |
 |       GitHub        | <https://github.com>                                  |
-|     eLuvLetter      | <https://github.com/george-chou/eLuvLetter>           |
+|     eLuvLetter      | <https://github.com/MuGeminorum/eLuvLetter>           |
 |       Netlify       | <https://app.netlify.com>                             |
 |       2D Demo       | <https://eluvletter.pages.dev>                        |
 |       3D Demo       | <https://eluvletter.pages.dev/index-3d.html>          |
-| Tutorial in Chinese | <https://www.cnblogs.com/george-chou/p/16617269.html> |
+| Tutorial in Chinese | <https://www.cnblogs.com/MuGeminorum/p/16617269.html> |
 
 Note: the heartbeat animation indicates that the BGM is loading, please be patient and wait util the envelope appears.
 
